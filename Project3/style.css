@@ -1,0 +1,28 @@
+#style{
+    background:#e7e567;
+    height: 599px;
+    width: 1200px;
+    position: absolute;
+}
+
+.photograph, img{    
+    height: 599px;
+    width: 800px;
+    object-fit: cover;
+    position: relative;
+    top: 0px;
+    left: 400px;   
+    
+}
+.text, h1{
+    height: 599px;
+    width: 800px;
+    object-fit: cover;
+    position: relative;
+    top: -520px;
+    left: 30px;
+    text-align: justify;
+    font-size: 20px;
+}
+
+

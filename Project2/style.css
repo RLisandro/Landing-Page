@@ -1,0 +1,23 @@
+#container, img{
+    object-fit: cover;
+    height: 610px;
+    width: 1500px;
+    position: relative;
+}
+.fundo{
+   background:#a78973  ; 
+   height: 540px;
+   width: 440px;
+   position: absolute;
+   top: 40px;
+   left: 600px;
+  
+   
+}
+.text{
+    color: #000000;
+    text-align:right;
+    position: absolute;
+    top: 20px;
+    left: 0px;
+}
